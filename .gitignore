@@ -141,3 +141,4 @@ cython_debug/
 
 # Macos metadata files
 .DS_Store
+intro-to-pytorch/Cat_Dog_data
